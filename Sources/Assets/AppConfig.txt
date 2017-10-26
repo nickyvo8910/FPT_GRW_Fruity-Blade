@@ -1,0 +1,6 @@
+PointsWin=1
+TimePlay=30
+Level1=0
+Level2=1
+Level3=2
+Level4=3
